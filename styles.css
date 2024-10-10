@@ -111,7 +111,7 @@ form input.oparator {
         box-shadow: 3px 3px 15px 5px gray;
     }
 }
-@media screen and (max-width:910px){
+@media screen and (max-width:975px){
     .container {
         display: flex;
         align-items: center;
@@ -147,12 +147,36 @@ form input.oparator {
         box-shadow: 3px 3px 15px 5px gray;
     }
 }
-@media screen and (max-width:445px){
+@media screen and (max-width:625px){
+    .container {
+        display: flex;
+        align-items: center;
+        width: 500px;
+        height: 615px;
+        border-radius: 50px;
+        justify-content: center;
+        background-color: rgb(240, 207, 207);
+        box-shadow: 3px 3px 15px 5px gray;
+    }
+}
+@media screen and (max-width:550px){
     .container {
         display: flex;
         align-items: center;
         width: 450px;
-        height: 600px;
+        height: 615px;
+        border-radius: 50px;
+        justify-content: center;
+        background-color: rgb(240, 207, 207);
+        box-shadow: 3px 3px 15px 5px gray;
+    }
+}
+@media screen and (max-width:445px){
+    .container {
+        display: flex;
+        align-items: center;
+        width: 400px;
+        height: 560px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
