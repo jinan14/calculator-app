@@ -67,19 +67,19 @@ form input.oparator {
     .container {
         display: flex;
         align-items: center;
-        width: 1200px;
-        height: 650px;
+        width: 1100px;
+        height: 630px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
         box-shadow: 3px 3px 15px 5px gray;
     }
 }
-@media screen and (max-width:1235px){
+@media screen and (max-width:1200px){
     .container {
         display: flex;
         align-items: center;
-        width: 1100px;
+        width: 1000px;
         height: 630px;
         border-radius: 50px;
         justify-content: center;
@@ -91,7 +91,7 @@ form input.oparator {
     .container {
         display: flex;
         align-items: center;
-        width: 1000px;
+        width: 900px;
         height: 650px;
         border-radius: 50px;
         justify-content: center;
@@ -103,7 +103,7 @@ form input.oparator {
     .container {
         display: flex;
         align-items: center;
-        width: 900px;
+        width: 950px;
         height: 650px;
         border-radius: 50px;
         justify-content: center;
@@ -123,12 +123,36 @@ form input.oparator {
         box-shadow: 3px 3px 15px 5px gray;
     }
 }
+@media screen and (max-width:850px){
+    .container {
+        display: flex;
+        align-items: center;
+        width: 700px;
+        height: 650px;
+        border-radius: 50px;
+        justify-content: center;
+        background-color: rgb(240, 207, 207);
+        box-shadow: 3px 3px 15px 5px gray;
+    }
+}
+@media screen and (max-width:770px){
+    .container {
+        display: flex;
+        align-items: center;
+        width: 600px;
+        height: 650px;
+        border-radius: 50px;
+        justify-content: center;
+        background-color: rgb(240, 207, 207);
+        box-shadow: 3px 3px 15px 5px gray;
+    }
+}
 @media screen and (max-width:445px){
     .container {
         display: flex;
         align-items: center;
-        width: 500px;
-        height: 650px;
+        width: 450px;
+        height: 600px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
