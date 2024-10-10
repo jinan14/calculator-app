@@ -15,8 +15,8 @@ body {
 .container {
     display: flex;
     align-items: center;
-    width: 1450px;
-    height: 650px;
+    width: 1300px;
+    height: 615px;
     border-radius: 50px;
     justify-content: center;
     background-color: rgb(240, 207, 207);
@@ -68,7 +68,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 1100px;
-        height: 630px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
@@ -80,7 +80,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 1000px;
-        height: 630px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
@@ -92,7 +92,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 900px;
-        height: 650px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
@@ -104,7 +104,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 950px;
-        height: 650px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
@@ -116,7 +116,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 800px;
-        height: 650px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
@@ -128,7 +128,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 700px;
-        height: 650px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
@@ -140,7 +140,7 @@ form input.oparator {
         display: flex;
         align-items: center;
         width: 600px;
-        height: 650px;
+        height: 615px;
         border-radius: 50px;
         justify-content: center;
         background-color: rgb(240, 207, 207);
